@@ -1,5 +1,12 @@
 # CSE135S15
 
+This repository contains the projects already available on the [CSE135S15 homepage](http://db.ucsd.edu/CSE135S15/).
+These example projects have been assembled in a VM in which the environment to run them all is already set up.
+The VM is available here (link still missing).
+
+The following information concerns the configuration settings of the VM provided with the examples
+installed and available.
+
 ### Passwords and username
 
 #### Ubuntu
