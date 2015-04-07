@@ -23,6 +23,13 @@ username : admin
 password : password
 ```
 
+#### PostgreSQL
+
+```
+username : postgres
+password : postgres
+```
+
 #### Configure Tomcat Users
 
 ```
